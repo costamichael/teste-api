@@ -74,7 +74,7 @@ Opção 1) Importando Banco de dados [ COM BASH ]
 ------
 ## Rodando a API
 
-Para testar a API, acesse o projeto [http://localhost/public/api/v1/produtos/{CODIGO_GTIN}](#)
+Para testar a API, acesse o projeto [http://localhost/teste-api/public/api/v1/produtos/{CODIGO_GTIN}](#)
 
 ## Michael da Costa
 
