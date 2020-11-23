@@ -6,10 +6,10 @@
 </p>
 
 ## Clone o projeto
-- bash-> [git clone git@github.com:costamichael/projeto-api.git](#)
+- bash-> [git clone git@github.com:costamichael/projeto-api.git](#) 
 
 ## Acesse o projeto
-- bash-> [cd seuprojeto](#)
+- bash-> [cd projeto-api](#)
 
 ## Instale as dependências e o framework
 - bash-> [composer install --no-scripts](#)
