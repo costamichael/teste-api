@@ -6,7 +6,7 @@
 </p>
 
 ## Clone o projeto
-- bash-> [git clone git@github.com:costamichael/projeto-api.git](#) 
+- bash-> [git clone git@github.com:costamichael/teste-api.git](#) 
 
 ## Acesse o projeto
 - bash-> [cd projeto-api](#)
