@@ -9,7 +9,7 @@
 - bash-> [git clone git@github.com:costamichael/teste-api.git](#) 
 
 ## Acesse o projeto
-- bash-> [cd projeto-api](#)
+- bash-> [cd teste-api](#)
 
 ## Instale as dependências e o framework
 - bash-> [composer install --no-scripts](#)
