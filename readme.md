@@ -5,6 +5,23 @@
 <h3>Laravel 5.6</h3>
 </p>
 
+## Clone o projeto
+- bash-> [git clone git@github.com:seuprojeto](#)
+
+## Acesse o projeto
+- bash-> [cd seuprojeto](#)
+
+## Instale as dependências e o framework
+- bash-> [composer install --no-scripts](#)
+
+## Copie o arquivo .env.example
+- bash-> [cp .env.example .env](#)
+
+## Crie uma nova chave para a aplicação
+- bash-> [php artisan key:generate](#)
+
+-----
+
 ## EDITE O ARQUIVO [ENV](#) NA RAIZ DO PROJETO
 
 - **PARA USAR MYSQL - CONFIGURE COM OS DADOS DO SEU MYSQL ABAIXO** <br>
