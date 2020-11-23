@@ -37,10 +37,6 @@ DB_PASSWORD=senha <br>
 
 DB_CONNECTION=sqlite <br>
 
-## ATUALIZAR [CACHE](#) - APÓS CONFIGURAÇÕES DO BANCO
-- digite o comando -> [php artisan config:cache](#)
-- e também o comando -> [php artisan cache:clear](#)
-
 ## CRIAR TABELAS
 
 Para gerar as tabelas, após ter escolhido e configurado o banco de dados.
